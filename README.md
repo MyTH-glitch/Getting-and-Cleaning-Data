@@ -11,6 +11,7 @@ Files
 1. CodeBook.md : data to indicate all the variables and summaries calculated, along with units, and any other relevant information
 2. get_data.R : downloads the dataset and arrange it locally
 3. run_analysis.R : performs the data preparation and cleansing as described in the course project’s definition which includes
+
 	a. Merges the training and the test sets to create one data set.
 	b. Extracts only the measurements on the mean and standard deviation for each measurement.
 	c. Uses descriptive activity names to name the activities in the data set
