@@ -1,12 +1,12 @@
-#Getting and Cleaning Data
+# Getting and Cleaning Data
 
 This repository contains the source and ouput files submitted by Shini Renjith for the Peer-graded Assignment for Getting and Cleaning Data.
 
-#Dataset
+# Dataset
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#Files
+# Files
 
 1. CodeBook.md : data to indicate all the variables and summaries calculated, along with units, and any other relevant information
 2. get_data.R : downloads the dataset and arrange it locally
