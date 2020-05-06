@@ -1,8 +1,10 @@
-The get_data.R script downloads the dataset and extracts it under the folder called UCI HAR Dataset
+# get_data.R 
+Downloads the dataset and extracts it under the folder called UCI HAR Dataset
 
-The run_analysis.R script performs the data preparation and the 5 steps required as described in the course project’s definition.
+# run_analysis.R 
+Performs the data preparation and the 5 steps required as described in the course project’s definition.
 
-Assign each data to variables
+## Assign each data to variables
 features <- features.txt : 561 rows, 2 columns
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 activities <- activity_labels.txt : 6 rows, 2 columns
